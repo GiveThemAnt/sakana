@@ -4,7 +4,7 @@
   <img src="html/chisato.png" height="160px">
 </a>
 
-# 🐟「Sakana!」石蒜模拟器
+# 🐟「Sakana!」石蒜模拟器 绵羊都说好玩
 
 [![NPM](https://img.shields.io/npm/v/sakana)](https://www.npmjs.com/package/sakana)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
